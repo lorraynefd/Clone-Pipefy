@@ -3,7 +3,7 @@ import { Container } from './styles';
  export default function Header(){
    return(
      <Container>
-       <h1>Pepify</h1>
+       <h1>Lolify</h1>
      </Container>
    );
  }
